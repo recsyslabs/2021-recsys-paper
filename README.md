@@ -20,3 +20,5 @@ Keywords: Newsletter Personalization, AI, Federated Learning, ML, NLP, Privacy, 
 ACM Reference Format:
 Ernesto Diaz-Aviles, Claudia Orellana-Rodriguez, Igor Brigadir, and Reshma Narayanan Kutty. 2021. NU:BRIEF – A Privacy-aware Newsletter Personalization Engine for Publishers. In Fifteenth ACM Conference on Recommender Systems (RecSys '21), September 27-October 1, 2021, Amsterdam, Netherlands. ACM, New York, NY, USA
 
+PDF: https://github.com/recsyslabs/2021-recsys-paper/blob/main/recsys21-nubrief-by-recsyslabs.pdf 
+
